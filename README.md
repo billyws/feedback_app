@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Feedback App - React App Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was based on Travesy Media's Udemy course on the React
 
 ## Available Scripts
 
