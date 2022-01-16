@@ -1,4 +1,4 @@
-# Feedback App - React App Project
+# Feedback App - React Project
 
 This project was based on Travesy Media's Udemy course on the React.
 
