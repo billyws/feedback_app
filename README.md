@@ -1,6 +1,6 @@
 # Feedback App - React Project
 
-This project was based on Travesy Media's Udemy course on the React.
+This project was based on Travesy Media's Udemy course on the React - @bradtravesy
 
 You can view a live demo on Netlify - https://objective-jennings-971bce.netlify.app/
 
